@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rohit Pandit
 - Second Year Computer Engineering Student at Shivajirao S. Jondhale College of Engineering Dombivli 
-- I’m interested in coding and making real world projects for that
-- I’m currently learning JavaScript
+- I’m interested in coding and making real world projects. 
 - Also i am trying to improve my problem solving ability and coding skills
 - About my qualifications , i scored 97%ile in JEE(Mains) 2024 and 98%ile in MHT-CET 2024 . 
 
