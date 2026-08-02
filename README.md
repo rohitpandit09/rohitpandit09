@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Pandit
-- Second Year Computer Engineering Student at Shivajirao S. Jondhale College of Engineering Dombivli 
+- Third Year Computer Engineering Student at Shivajirao S. Jondhale College of Engineering Dombivli 
 - I’m interested in coding and making real world projects. 
 - Currently i am participating in different Hackathons to learn new skills.
  
